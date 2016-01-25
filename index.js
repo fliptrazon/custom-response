@@ -63,6 +63,10 @@ Response.prototype.setException = function(flag){
     this.body.exception = flag;
 }
 
+Response.prototype.getException = function(){
+    return this.body.exception
+}
+
 Response.STATUS_CODES = statusCodes;
 
 module.exports = Response

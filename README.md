@@ -1,2 +1,2 @@
 # custom-response
-Custom response for Expressjs(Node.js)
+Structured response for Node.js application

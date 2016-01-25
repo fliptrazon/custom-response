@@ -1,0 +1,27 @@
+{
+  "name": "custom-response",
+  "version": "0.0.1",
+  "description": "Structured response for Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --tap test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fliptrazon/custom-response.git"
+  },
+  "keywords": [
+    "Express.js",
+    "Node.js",
+    "Response"
+  ],
+  "author": "Sunit Jindal <sunitjindal@gmail.com> (https://github.com/sunitJindal)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fliptrazon/custom-response/issues"
+  },
+  "homepage": "https://github.com/fliptrazon/custom-response#readme",
+  "devDependencies": {
+    "ava": "^0.11.0"
+  }
+}

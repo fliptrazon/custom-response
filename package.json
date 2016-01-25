@@ -1,6 +1,6 @@
 {
   "name": "custom-response",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Structured response for Node.js application",
   "main": "index.js",
   "scripts": {
